@@ -1,0 +1,10 @@
+qemu-vmgen version 0.0.1 ALPHA, Copyright (C) 2026 ghmaxx1k
+qmeu-vmgen comes with ABSOLUTELY NO WARRANTY; for details type `show warranty'.
+This is free software, and you are welcome to redistribute it
+under certain conditions; type `show conditions' for details.
+
+select an option: (cd): create a new virtual disk
+                  (cm): create a virtual machine script
+                  (all): execute all options,
+                         recommended if you got
+                         no disk and script
