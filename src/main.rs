@@ -28,7 +28,7 @@ fn main() {
     let mut user_prompt: String = String::new();
 
     // NOTICE AND INITIAL PROMPT
-    print!("{}\noption > ", NOTICE);
+    print!("{}\n\nselect > option: ", NOTICE);
     
     // USER INPUT
     io::stdout().flush().unwrap();

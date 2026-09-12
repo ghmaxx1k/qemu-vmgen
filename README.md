@@ -20,12 +20,16 @@ for future releases: develop an additional virtual machine launcher for created 
 
 # Changelog
 
+(NFY means not finished yet)
+
 0.0.1 ALPHA: started development,
              added licensing and initial prompt,
              added placeholders for all options,
              titled all code steps/functions.
 
-0.1.0 BETA: renamed qemu-helper to qemu-vmgen,
-            started developing cd and cm features,
-            added a readme,
-            added a makefile.
+NFY - 0.1.0 BETA: renamed qemu-helper to qemu-vmgen,
+                  license is now compliant,
+                  started developing cd and cm features,
+                  added a readme,
+                  added a makefile,
+                  heavily changed code structure (pager and opts are now mods).
