@@ -11,11 +11,10 @@ current version: 0.1.0 BETA
 
 current stable version: none
 
-Human code: all lines except from line 52 to line 82
-
-AI code: from line 52 to line 82
+AI code: src/pager.rs, from line 25 to line 37 (used AI snippet as reference)
 
 for future releases: develop an additional virtual machine launcher for created machines
+                     add man page
 
 (usage is explained while running qemu-vmgen)
 
