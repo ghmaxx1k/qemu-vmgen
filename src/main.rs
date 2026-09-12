@@ -24,13 +24,21 @@ use std::io;
 use std::io::Write;
 use std::process::{Command, Stdio};
 
-// CODE
+fn createdisk() {
+
+}
+
+fn createscript() {
+    
+}
+
+// MAIN
 fn main() {
     
     // VARIABLES
     let mut user_prompt: String = String::new();
 
-    // NOTICE AND INITAL PROMPT
+    // NOTICE AND INITIAL PROMPT
     println!("{}\n", NOTICE);
     
     // USER INPUT
