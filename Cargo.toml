@@ -1,5 +1,5 @@
 [package]
-name = "qemu-helper"
+name = "qemu-vmgen"
 version = "0.1.0"
 edition = "2024"
 

@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "qemu-helper"
+name = "qemu-vmgen"
 version = "0.1.0"
